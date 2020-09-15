@@ -1,9 +1,8 @@
 node_modules
-.idea/
 .xml
 _site/
 # Local Netlify folder
 .netlify
 .DS_store
-
 _site/index.html
+/.idea/
