@@ -6,3 +6,5 @@ _site/
 .DS_store
 _site/index.html
 /.idea/
+.DS_Store
+.idea/workspace.xml
